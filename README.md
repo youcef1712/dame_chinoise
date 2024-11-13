@@ -6,4 +6,5 @@ Mouvements : Le programme permet de déplacer des pièces (par exemple, de c1 à
 Affichage : Le plateau est affiché avec les pièces de chaque joueur, et la victoire est déterminée par un score basé sur la position des pièces.
 En résumé, ce programme implémente un jeu de plateau hexagonal avec des règles de mouvement et de victoire.
 
-#s
+# execution
+On selectionne le programme puis on l execute (touche MAJ Entré)
